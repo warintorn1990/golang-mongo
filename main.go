@@ -4,7 +4,7 @@ import(
 	"github.com/julienschmidt/httprouter"
 	"gopkg.in/mgo.v2"
 	"net/http"
-	"https://github.com/warintorn1990/golang-mongo/controllers"
+	"github.com/warintorn1990/golang-mongo/controllers"
 )
 
 func main(){
